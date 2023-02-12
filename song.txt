@@ -1,3 +1,13 @@
 song text...
 second line
 third line
+
+couplet 1
+couplet 1
+couplet 1
+couplet 1
+
+couplet 2
+couplet 2
+couplet 2
+couplet 2
